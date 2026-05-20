@@ -35,7 +35,7 @@ public String getId() {
         return email;
     }
 
-//έλεγχος εγκυρότηατσ για να περιεχεται πάντα το @ στο μαιλ
+//έλεγχος εγκυρότητας για να περιεχεται πάντα το @ στο μαιλ
 public void setEmail(String email) {
     if (email != null && email.contains("@")) {
         this.email = email;
