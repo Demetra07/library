@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7ed4f65-ad2b-4dd6-9f6b-9c9df961c672" name="Changes" comment="Created main.java including main menu console." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Demetra07&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Demetra07/library.git&quot;,
+    &quot;accountId&quot;: &quot;3bf4d3b9-9ac0-45d6-9b17-16b56f28a678&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3DtxcvWkFo9MPh2vWGpxScIV9wq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/joann/Documents/PAPEI/java/library",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7ed4f65-ad2b-4dd6-9f6b-9c9df961c672" name="Changes" comment="" />
+      <created>1779115254182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779115254182</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial setup, createds the Borrowable interfface and abstract member class">
+      <option name="closed" value="true" />
+      <created>1779175884549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779175884549</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added serachable interface, μικρη διορθοση στο member.">
+      <option name="closed" value="true" />
+      <created>1779260502060</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779260502060</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added descriptions to subclasses">
+      <option name="closed" value="true" />
+      <created>1779262547012</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779262547012</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Made some changes in LibraryItem so it follows the prompt guidelines.">
+      <option name="closed" value="true" />
+      <created>1779262597768</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779262597768</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added the main Library class.">
+      <option name="closed" value="true" />
+      <created>1779263324265</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1779263324265</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added a Report Generator in util package.">
+      <option name="closed" value="true" />
+      <created>1779271433271</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1779271433271</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Created main.java including main menu console.">
+      <option name="closed" value="true" />
+      <created>1779273389004</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1779273389004</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial setup, createds the Borrowable interfface and abstract member class" />
+    <MESSAGE value="Added serachable interface, μικρη διορθοση στο member." />
+    <MESSAGE value="Added descriptions to subclasses" />
+    <MESSAGE value="Made some changes in LibraryItem so it follows the prompt guidelines." />
+    <MESSAGE value="Added the main Library class." />
+    <MESSAGE value="Added the a Report Generator" />
+    <MESSAGE value="Added a Report Generator in util package." />
+    <MESSAGE value="Created main.java including main menu console." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created main.java including main menu console." />
+  </component>
+</project>
