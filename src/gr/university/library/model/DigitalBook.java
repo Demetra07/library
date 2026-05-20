@@ -30,5 +30,10 @@ public class DigitalBook extends Book {
     public void setFileFormat(String fileFormat) {
         this.fileFormat = fileFormat;
     }
+
+    @Override
+    public String getDescription() {
+        return "Ψηφιακό Βιβλίο: '" + getTitle() + "' του " + getAuthor() + " (Μορφή: " + getFileFormat() + ", " + getFileSize() + "MB)";
+    }
     
 }

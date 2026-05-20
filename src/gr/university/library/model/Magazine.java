@@ -38,4 +38,8 @@ public class Magazine extends LibraryItem {
         System.out.println("Το περιοδικό '" + getTitle() + "' επιστράφηκε επιτυχώς!");
         return true;
     }
+    @Override
+    public String getDescription() {
+        return "Περιοδικό: '" + getTitle() + "' (Τεύχος: " + getIssueNumber() + ", Έτος: " + getPublicationYear() + ")";
+    }
 }

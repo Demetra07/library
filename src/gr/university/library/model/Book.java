@@ -54,4 +54,8 @@ public class Book extends LibraryItem {
         System.out.println("Το βιβλίο '" + getTitle() + "' επιστράφηκε επιτυχώς!");
         return true;
     }
+    @Override
+    public String getDescription() {
+        return "Βιβλίο: '" + getTitle() + "' του " + getAuthor() + " (ISBN: " + getIsbn() + ")";
+    }
 }
