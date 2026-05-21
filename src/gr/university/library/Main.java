@@ -13,10 +13,10 @@ public class Main {
 
         //Προ-φόρτωση Δεδομένων
         System.out.println("Φόρτωση αρχικών δεδομένων...");
-        library.addItem(new Book("B001", "Αντικειμενοστρεφής Προγραμματισμός", 2023, "Γ. Παπαδόπουλος", "978-1234567890"));
+        library.addItem(new Book("B001", "Αντικειμενοστρεφής Προγραμματισμός", 2023, "Ε. Αλέπης", "978-1234567890"));
         library.addItem(new Magazine("M001", "Java Today", 2024, 42));
-        library.addMember(new StudentMember("S001", "Μαρία Κώστα", "maria@uni.gr", 5, "cs1029", "Πληροφορικής"));
-        library.addMember(new ProfessorMember("P001", "Νίκος Ανδρέου", "nandreas@uni.gr", 10, "Μηχανική Λογισμικού"));
+        library.addMember(new StudentMember("P25011", "Δήμητρα Βησσαρία Βαϊνά", "p25011@unipi.gr", 5, "cs0011", "Πληροφορικής"));
+        library.addMember(new ProfessorMember("P001", "Ιωάννης Τασούλας", "jtas@unipi.gr", 10, "Διακριτά Μαθηματικά"));
         System.out.println("Η βιβλιοθήκη είναι έτοιμη!\n");
 
         //Το Μενού της Κονσόλας
@@ -80,7 +80,7 @@ public class Main {
                     break;
 
                 case "4":
-                    System.out.print("Δώσε ID Μέλους που κάνει τον δανεισμό (π.χ. S001): ");
+                    System.out.print("Δώσε ID Μέλους που κάνει τον δανεισμό (π.χ. P25011): ");
                     String loanMemberId = scanner.nextLine();
                     System.out.print("Δώσε Κωδικό Αντικειμένου (π.χ. B001): ");
                     String loanItemId = scanner.nextLine();
