@@ -1,4 +1,4 @@
-package gr.university.library;
+package gr.university.library.service;
 
 import gr.university.library.contracts.Searchable;
 import gr.university.library.model.*;

@@ -1,6 +1,7 @@
 package gr.university.library;
 
 import gr.university.library.model.*;
+import gr.university.library.service.Library;
 import gr.university.library.util.ReportGenerator;
 
 import java.util.Scanner;
