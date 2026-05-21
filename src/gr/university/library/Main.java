@@ -23,8 +23,8 @@ public class Main {
         boolean running = true;
         while (running) {
             System.out.println("\n=== University Library ===");
-            System.out.println("1. Προσθήκη υλικού βιβλιοθήκης (Βιβλίο)");
-            System.out.println("2. Προσθήκη μέλους (Φοιτητής)");
+            System.out.println("1. Προσθήκη υλικού βιβλιοθήκης (Βιβλίο/Περιοδικό κλπ");
+            System.out.println("2. Προσθήκη μέλους (Φοιτητής-Καθηγητής)");
             System.out.println("3. Αναζήτηση υλικού βιβλιοθήκης");
             System.out.println("4. Δανεισμός υλικού βιβλιοθήκης");
             System.out.println("5. Επιστροφή υλικού βιβλιοθήκης");

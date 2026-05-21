@@ -1,6 +1,6 @@
 package gr.university.library.util;
 
-import gr.university.library.Library;
+import gr.university.library.service.Library;
 import gr.university.library.model.Loan;
 
 // καμία κλάση δεν μπορεί να κάνει extends αυτήν την κλάση

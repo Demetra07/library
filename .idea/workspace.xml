@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7ed4f65-ad2b-4dd6-9f6b-9c9df961c672" name="Changes" comment="Created main.java including main menu console." />
+    <list default="true" id="a7ed4f65-ad2b-4dd6-9f6b-9c9df961c672" name="Changes" comment="Moved Library in new package service.">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/university/library/util/ReportGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/university/library/util/ReportGenerator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +31,12 @@
     &quot;assignee&quot;: &quot;Demetra07&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Demetra07/library.git&quot;,
-    &quot;accountId&quot;: &quot;3bf4d3b9-9ac0-45d6-9b17-16b56f28a678&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Demetra07/library.git",
+    "accountId": "ad7edf79-4097-4348-a142-edcd1683ad07"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5,
   &quot;fromUser&quot;: false
@@ -53,7 +57,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/joann/Documents/PAPEI/java/library",
+    "last_opened_file_path": "C:/Users/stama/OneDrive/Έγγραφα/GitHub/library",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -134,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779273389004</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Moved Library in new package service.">
+      <option name="closed" value="true" />
+      <created>1779382144078</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1779382144078</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +172,7 @@
     <MESSAGE value="Added the a Report Generator" />
     <MESSAGE value="Added a Report Generator in util package." />
     <MESSAGE value="Created main.java including main menu console." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created main.java including main menu console." />
+    <MESSAGE value="Moved Library in new package service." />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved Library in new package service." />
   </component>
 </project>
