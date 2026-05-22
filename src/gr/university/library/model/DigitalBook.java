@@ -1,6 +1,6 @@
 package gr.university.library.model;
 
-// Η DigitalBook είναι "παιδί" της Book (η οποία είναι "παιδί" της LibraryItem)
+// Η DigitalBook είναι παιδί της Book (η οποία είναι παιδί της LibraryItem)
 public class DigitalBook extends Book {
 
     private double fileSize; // Μέγεθος αρχείου
